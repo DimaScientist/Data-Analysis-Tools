@@ -4,7 +4,7 @@
 * [x] [Pandas](https://github.com/DimaScientist/Data-Analysis-Tools/blob/main/lab_1_pandas_6132_Bakanov.ipynb)
 * [x] [Визуализация данных](https://github.com/DimaScientist/Data-Analysis-Tools/blob/main/lab_2_visual_6132_Bakanov.ipynb)
 * [x] [Классификация в sklearn (многоклассовая, бинарная)](https://github.com/DimaScientist/Data-Analysis-Tools/blob/main/lab_3_classification_6132_Bakanov.ipynb)
-* [ ] [Деревья решений](https://github.com/kvvik/DS_SamU/blob/main/tasks/lab_4_trees_groupNumber_SecondName.ipynb) (:soon:)
+* [x] [Деревья решений](https://github.com/DimaScientist/Data-Analysis-Tools/blob/main/lab_4_trees_6132_Bakanov.ipynb)
 * [ ] Catboost (классификация, регрессия)
 * [ ] Линейная регрессия в sklearn
 * [ ] Основы tensorflow 
