@@ -5,7 +5,7 @@
 * [x] [Визуализация данных](https://github.com/DimaScientist/Data-Analysis-Tools/blob/main/lab_2_visual_6132_Bakanov.ipynb)
 * [x] [Классификация в sklearn (многоклассовая, бинарная)](https://github.com/DimaScientist/Data-Analysis-Tools/blob/main/lab_3_classification_6132_Bakanov.ipynb)
 * [x] [Деревья решений](https://github.com/DimaScientist/Data-Analysis-Tools/blob/main/lab_4_trees_6132_Bakanov.ipynb)
-* [ ] Catboost (классификация, регрессия)
+* [x] [Catboost (классификация, регрессия)](https://github.com/DimaScientist/Data-Analysis-Tools/blob/main/lab_5_catboost_6132_Bakanov.ipynb)
 * [ ] Линейная регрессия в sklearn
 * [ ] Основы tensorflow 
 * [ ] Классификация/регрессия в tensorflow
