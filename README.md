@@ -7,10 +7,9 @@
 * [x] [Деревья решений](https://github.com/DimaScientist/Data-Analysis-Tools/blob/main/lab_4_trees_6132_Bakanov.ipynb)
 * [x] [Catboost (классификация, регрессия)](https://github.com/DimaScientist/Data-Analysis-Tools/blob/main/lab_5_catboost_6132_Bakanov.ipynb)
 * [ ] Линейная регрессия в sklearn
-* [ ] Основы tensorflow 
-* [ ] Классификация/регрессия в tensorflow
-* [ ] Деревья решений в tensorflow
-* [ ] Tensorboard - средство визуализации в tensorflow
-* [ ] Классификация текстов (с помощью TfIdf + LogisticRegression)
-* [ ] Кластеризация
+* [ ] Знакомство с Pytorch
+* [x] [Кластеризация](https://github.com/DimaScientist/Data-Analysis-Tools/blob/main/lab_8_clasterization_6132_Bakanov.ipynb)
 * [ ] Понижение размерности признакового пространства
+* [ ] Tensorboard - средство визуализации в tensorflow
+* [ ] Знакомство с Tensorflow
+* [ ] Классификация текстов
