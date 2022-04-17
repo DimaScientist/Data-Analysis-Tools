@@ -10,6 +10,5 @@
 * [ ] Знакомство с Pytorch
 * [x] [Кластеризация](https://github.com/DimaScientist/Data-Analysis-Tools/blob/main/lab_8_clasterization_6132_Bakanov.ipynb)
 * [ ] Понижение размерности признакового пространства
-* [ ] Tensorboard - средство визуализации в tensorflow
 * [ ] Знакомство с Tensorflow
 * [ ] Классификация текстов
